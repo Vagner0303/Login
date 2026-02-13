@@ -129,4 +129,11 @@ Ele demonstra domínio de:
 - Persistência com Hibernate e JPA  
 - Segurança com BCrypt  
 - Validação de dados  
-- Arquitetura organizada  
+- Arquitetura organizada
+
+---
+## Projeto : 
+<img width="382" height="334" alt="Captura de tela 2026-02-13 170409" src="https://github.com/user-attachments/assets/b5338037-84c6-4e77-be72-2a33218ec438" />
+<img width="399" height="337" alt="Captura de tela 2026-02-13 170418" src="https://github.com/user-attachments/assets/18319e2f-29c5-4b68-be03-7387e81157f3" />
+<img width="639" height="196" alt="Captura de tela 2026-02-13 170432" src="https://github.com/user-attachments/assets/04259232-292f-4fc3-9e61-6443b92f5e5d" />
+
